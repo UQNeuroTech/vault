@@ -18,7 +18,8 @@ At this point, you will have all of the raw text files on your own computer. You
 3. Install the [Obsidian](https://obsidian.md/) notes app.
 4. Open the *vault* folder (that you just cloned) as an Obsidian vault, in the Obsidian app.
 5. Navigate to the setting and ensure that the "Obsidian Git" plugin is installed and has the correct settings
-6. This is the end of the installation instructions for now. But they will be added to and made more clear in the future as this repository grows. Check out this guide for some extra guidance that might be usefull: [How to sync an Obsidian vault with GitHub using the Obsidian Git plugin](https://eightify.app/media/how-to-sync-an-obsidian-vault-with-github-using-the-obsidian#autosync-a-user-friendly-approach).
+6. Click on the *index* note to get started!
+7. This is the end of the installation instructions for now. But they will be added to and made more clear in the future as this repository grows. Check out this guide for some extra guidance that might be usefull: [How to sync an Obsidian vault with GitHub using the Obsidian Git plugin](https://eightify.app/media/how-to-sync-an-obsidian-vault-with-github-using-the-obsidian#autosync-a-user-friendly-approach).
 
 ## Want to contribute to the vault?
 
