@@ -1,4 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "loose"
+  "newFileFolderPath": "loose",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./"
 }

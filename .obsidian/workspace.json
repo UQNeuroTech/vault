@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "loose/Haseebs-thesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "loose/Haseebs-thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "loose/Haseebs-thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "loose/Haseebs-thesis.md"
               }
             }
           }
@@ -147,7 +147,14 @@
   },
   "active": "b086240627720d72",
   "lastOpenFiles": [
+    "development/DIY EEG Resources.md",
+    "loose/Haseebs-thesis.md",
+    "loose/Pasted image 20240808195102.png",
     "index.md",
+    "attachments/Haseebs-thesis-doc.pdf",
+    "README.md",
+    "attachments/OpenBCI_Ultracortex.png",
+    "attachments",
     "loose/UNESCO International Conference on the Ethics of Neurotechnology.md",
     "people/Nita A. Farahany.md",
     "people/Emily Cross.md",
@@ -156,8 +163,6 @@
     "Untitled.md",
     "testt.md",
     "loose",
-    "README.md",
-    "development/DIY EEG Resources.md",
     "development"
   ]
 }
