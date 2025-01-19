@@ -3,7 +3,7 @@
 OpenBCI is like the "Arduino" of BCI brands. They have designed some fantastic open-source EEG boards.
 
 **[[OpenBCI Ultracortex]]**
-**[[OpenBCI Cyton Board]]**
+**[[OpenBCI Cyton Board - Notes For Hobbyist Fabrication]]**
 
 Useful links:
 - [OpenBCI Docs](https://docs.openbci.com/)

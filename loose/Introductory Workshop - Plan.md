@@ -8,7 +8,7 @@
 - [ ] CHARGE the headsets
 - [ ] Print certificates
 	- laminate if we receive name lists
-
+ 
 ## Day Schedule
 
 | Time  | Activity                 | Notes                                                                                    |
