@@ -10,6 +10,10 @@ Useful links:
 - [Cyton Board PCB Files](https://github.com/OpenBCI/V3_Hardware_Design_Files)
 - [Ultracortex CAD Files](https://github.com/OpenBCI/Ultracortex)
 
+### Mind Garden Project
+
+Link: https://mindgardenai.com/blog/2024-09-11-lets-build-a-bci/
+
 ## Instructables
 ### [cah6's](https://www.instructables.com/member/cah6/) instructable
 - https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
