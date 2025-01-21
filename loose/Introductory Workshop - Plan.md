@@ -1,3 +1,7 @@
+## Dates
+06/02/25 - 08/02/25
+## Location
+47A - 351 Sir James Foots Building, Collaborative Room
 ## Todo
 
 - [ ] Develop **lecture** content
