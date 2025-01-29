@@ -1,7 +1,12 @@
 ## Links
-
 - Kahoot: https://create.kahoot.it/share/neurotechnology-quiz/729c80d7-2010-41e9-903c-183027a059b8 
-
+## Dates
+06/02/25 (Thursday) - 08/02/25 (Saturday)
+## Location
+47A - 351 Sir James Foots Building, Collaborative Room
+## Admin
+~20 students for Thursday and Friday
+~30 students for Saturday
 ## Todo
 
 - [ ] Develop **lecture** content
