@@ -1,3 +1,7 @@
+## Links
+
+- Kahoot: https://create.kahoot.it/share/neurotechnology-quiz/729c80d7-2010-41e9-903c-183027a059b8 
+
 ## Todo
 
 - [ ] Develop **lecture** content
@@ -8,17 +12,18 @@
 - [ ] CHARGE the headsets
 - [ ] Print certificates
 	- laminate if we receive name lists
+- [ ] Ask Waytour about allergies
  
 ## Day Schedule
 
 | Time  | Activity                 | Notes                                                                                    |
 | ----- | ------------------------ | ---------------------------------------------------------------------------------------- |
 | 8:30  | Execs arrive             |                                                                                          |
-| 9:30  | Ice Breakers             |                                                                                          |
+| 9:30  | Ice Breakers             | Execs Introduce themselves<br>Bingo Cards                                                |
 | 10:00 | **Lecture**              | Tell students about the pitch activity before lunch.<br><br>Execs give an example pitch. |
 | 11:30 | Lunch                    |                                                                                          |
-| 13:00 | Ice Breakers             |                                                                                          |
-| 13:15 | **Practical Activities** |                                                                                          |
+| 13:00 | Ice Breakers             | Kahoot (based on lecture content - try to be maybe funny questions)                      |
+| 13:15 | **Practical Activities** | - 30 mins of pitching at the end.                                                        |
 | 15:00 | Certificates and Wrap-up |                                                                                          |
 | 15:30 | Finish                   |                                                                                          |
 | 16:00 | Execs depart             |                                                                                          |
@@ -47,13 +52,13 @@
 
 ## Practical Activities - Schedule
 
-| Session | Table 1 | Table 2 | Table 3 | Table 4 | Table 5 |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 1       | A       | A       | B       | C       | C       |
-| 2       | A       | B       | C       | C       | A       |
-| 3       | B       | C       | C       | A       | A       |
-| 4       | C       | C       | A       | A       | B       |
-| 5       | C       | A       | A       | B       | C       |
+| Session | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 |
+| ------- | ------ | ------ | ------ | ------ | ------ |
+| 1       | A      | A      | B      | C      | C      |
+| 2       | A      | B      | C      | C      | A      |
+| 3       | B      | C      | C      | A      | A      |
+| 4       | C      | C      | A      | A      | B      |
+| 5       | C      | A      | A      | B      | C      |
 
 - 15 minutes per session
 - 30 minutes for pitches
@@ -66,6 +71,7 @@
 | Small Prize - UQNT Keyrings       | 4      | Kahoot & Bingo                                                                                                                                                                              |
 | Small Prize - UQNT Cable Spool    | 4      | Kahoot & Bingo                                                                                                                                                                              |
 | Big Prize - Freddos + Red Frogs   | 1      | For group pitch winner                                                                                                                                                                      |
+| Sour Patch Kids                   | 2      | For EEG experimentation                                                                                                                                                                     |
 |                                   |        |                                                                                                                                                                                             |
 | Exec run-sheet printouts          | 5      | For execs                                                                                                                                                                                   |
 | Student EEG Instruction Printouts | 10     | For students                                                                                                                                                                                |
@@ -80,5 +86,6 @@
 | Emotiv + Laptop                   | 2      | - [Launcher](https://www.emotiv.com/products/emotiv-launcher)<br>- [BrainVis](https://www.emotiv.com/products/emotiv-brainviz)<br>- [EmotivBCI](https://www.emotiv.com/products/emotiv-bci) |
 | Neurosity + Laptop                | 2      | - [Console](https://console.neurosity.co/) + log-in details                                                                                                                                 |
 | OpenBCI + Laptop                  | 1      |                                                                                                                                                                                             |
-| MARS's Micromelon                 | 5      | Requested - Pending                                                                                                                                                                         |
+| MARS's Micromelon                 | 5      | Requested - Denied                                                                                                                                                                          |
+| Micromelon Loan from Adam         | 3      | Not requested yet                                                                                                                                                                           |
 |                                   |        |                                                                                                                                                                                             |
